@@ -1,1 +1,1 @@
-# Super-resolution-Sentinel-2
+# Super-resolution for Sentinel-2
