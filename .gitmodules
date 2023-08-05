@@ -1,0 +1,9 @@
+[submodule "sentinel-2-clustering"]
+	path = sentinel-2-clustering
+	url = https://github.com/maciekwielgosz/sentinel-2-clustering.git
+[submodule "SRCNN-pytorch"]
+	path = SRCNN-pytorch
+	url = https://github.com/anmaran/SRCNN-pytorch.git
+[submodule "KAIR"]
+	path = KAIR
+	url = https://github.com/anmaran/KAIR.git
